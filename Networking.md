@@ -2,5 +2,5 @@
 
 ## CIDR Chart
 
-![CIDR Chart](images/CIDR Chart.png)
+![CIDR Chart](images/CIDRChart.png)
 
